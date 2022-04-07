@@ -1,4 +1,4 @@
-kage tiposprimitivos;
+package tiposprimitivos;
 
 import java.util.Scanner;  // Importanto a biblioteca pra Ler entrada de dados.
 

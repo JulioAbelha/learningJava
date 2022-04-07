@@ -9,4 +9,5 @@ git pull origin main
 # Estrutura do Repositório
 
 Os tópicos da linguagem serão apresentados da seguinte maneira: Para cada assunto, existe 2 arquivos, um do tipo ".md", que irá descrever com palavras oque está ocorrendo no código em questão, para não poluir o código com comentários demais, e um arquivo do tipo .java, esse arquivo terá o código em si.
+Caso o arquivo ".md" não exista para o seu correspondente em ".java", se dá pelo fato dos comentários feitos no próprio programa supostamente já são suficientes (para programas simples).
 
